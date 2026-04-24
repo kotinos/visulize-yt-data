@@ -5,6 +5,7 @@ Streamlit dashboard for **200 channel-style records**: subscribers, views, categ
 ## Quick start
 
 ```bash
+git clone https://github.com/kotinos/visulize-yt-data.git
 cd visulize-yt-data
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
